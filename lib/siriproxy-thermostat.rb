@@ -1,7 +1,7 @@
 require 'httparty'
 require 'json'
 
-class SiriProxy::Plugin::Thermostat < SiriProxy::Plugin
+class SiriProxy::Plugin::RadStat < SiriProxy::Plugin
   attr_accessor :host
 
   def initialize(config = {})
