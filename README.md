@@ -1,5 +1,5 @@
-siriproxy-radstat
-====================
+siriproxy-radstat (in development)
+==================================
 
 About
 -----
