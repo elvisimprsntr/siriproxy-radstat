@@ -15,3 +15,9 @@ I have received offers to make a donation to help offset the cost of hardware an
 
 Thermostats
 -----------  
+
+The [Advance Technical Information] (http://www.radiothermostat.com/latestnews.html#advanced) page documents the Wi-Fi USNAP Module API for the Radio Thermostat brand and re-branded thermostats documents the API for the CT80, CT30, and 3M50 thermostarts.     
+
+Radio Thermosts models CT22 and CT20 also have WiFi capability, but I do not know if those use the same API.  
+
+
