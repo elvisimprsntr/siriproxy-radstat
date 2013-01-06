@@ -10,8 +10,6 @@ First, you must have SiriProxy installed and working.  [HOW-TOs for Siriprixy] (
 
 Second, you must have at least one Radio Thermostat configured with a static IP address on your network and updated with the latest firmware.    
 
-I have received offers to make a donation to help offset the cost of hardware and for my time.  If you feel so inclined you can donate thru PayPal.  
-
 
 Thermostats
 -----------  
