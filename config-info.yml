@@ -4,6 +4,6 @@
 #NOTICE: Modifying these options in this file has no effect. You must put them in SiriProxy's config.yml!
 ##########################
     
-    - name: 'Thermostat'
-      git: 'git://github.com/elvisimprsntr/SiriProxy-Thermostat.git'
+    - name: 'RadStat'
+      git: 'git://github.com/elvisimprsntr/siriproxy-radstat.git'
       host: '192.168.69.109' 
