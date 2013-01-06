@@ -20,7 +20,7 @@ The [Radio Thermstat Support] (http://www.radiothermostat.com/support.html) site
 
 The [Advance Technical Information] (http://www.radiothermostat.com/latestnews.html#advanced) page provides access to Wi-Fi USNAP Module API document for thermostat models CT80, CT30, and 3M50.     
 
-Radio Thermosts models CT22 and CT20 are not mentioned in the API documentation, but it is possible those use the same or a similar API.
+Radio Thermostat models CT22 and CT20 are not specifically mentioned in the API documentation, but it is possible those use the same or a similar API.
 
 
 Installation
