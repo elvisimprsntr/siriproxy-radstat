@@ -1,4 +1,4 @@
-siriproxy-redstat
+siriproxy-radstat
 ====================
 
 About
