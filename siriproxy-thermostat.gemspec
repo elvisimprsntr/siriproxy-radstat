@@ -2,15 +2,15 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "siriproxy-thermostat"
+  s.name        = "siriproxy-radstat"
   s.version     = "0.0.1" 
-  s.authors     = ["plamoni"]
+  s.authors     = ["elvisimprsntr"]
   s.email       = [""]
   s.homepage    = ""
   s.summary     = %q{A thermostat plugin for SiriProxy that controls a RadioThermostat thermostat}
   s.description = %q{This is largely a demo plugin of a real-world implementation of SiriProxy}
 
-  s.rubyforge_project = "siriproxy-thermostat"
+  s.rubyforge_project = "siriproxy-radstat"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
