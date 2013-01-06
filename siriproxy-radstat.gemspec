@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1" 
   s.authors     = ["elvisimprsntr"]
   s.email       = [""]
-  s.homepage    = ""
-  s.summary     = %q{A thermostat plugin for SiriProxy that controls a RadioThermostat thermostat}
-  s.description = %q{This is largely a demo plugin of a real-world implementation of SiriProxy}
+  s.homepage    = "https://github.com/elvisimprsntr/siriproxy-radstat"
+  s.summary     = %q{SiriProxy plugin for Radio Thermostat thermostats}
+  s.description = %q{SiriProxy plugin for Radio Thermostat thermostats}
 
   s.rubyforge_project = "siriproxy-radstat"
 
