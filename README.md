@@ -35,7 +35,7 @@ To Do List
 
 Let me know if you want to collaborate.   
 
-- Update plugin to support v1.3 API and features.
+- Update plugin to support v1.3 API and more features.
 - Add support for multiple thermostats.  
 
 
