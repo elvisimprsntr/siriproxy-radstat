@@ -15,6 +15,7 @@ Thermostats
 -----------  
 
 Before installing a Radio Thermoststat you will need to ensure compatibility with your HVAC system, or have one professionally installed.  
+The [Radio Thermstat Support] (http://www.radiothermostat.com/support.html) sire had excellent information setup videos.     
 
 These thermostats require either a C-Wire conection from your HVAC or an external 24VAC power supply to power the WiFi USNAP module.  
 
