@@ -19,7 +19,7 @@ Before installing a Radio Thermoststat you will need to ensure compatibility wit
 The [Radio Thermostat Support] (http://www.radiothermostat.com/support.html) site has excellent information and instructional videos.  
 
 
-The [Advance Technical Information] (http://www.radiothermostat.com/latestnews.html#advanced) page provides access to Wi-Fi USNAP Module API document for thermostat models CT80, CT30, and 3M50.     
+The [Advanced Technical Information] (http://www.radiothermostat.com/latestnews.html#advanced) page provides access to Wi-Fi USNAP Module API document for thermostat models CT80, CT30, and 3M50.     
 
 Radio Thermostat models CT22 and CT20 are not specifically mentioned in the API documentation, but it is possible those use the same or a similar API.
 
