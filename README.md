@@ -1,10 +1,10 @@
-SiriProxy-Thermostat
+siriproxy-redstat
 ====================
 
 About
 -----
 
-SiriProxy-Thermostat is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plugin that uses the API of the [Radio Thermostat] (http://www.radiothermostat.com/) brand and re-branded WiFi enabled thermostats. It does not require a jailbreak, nor do I endorse doing so.  
+Siriproxy-radstat is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plugin that uses the API of the [Radio Thermostat] (http://www.radiothermostat.com/) brand and re-branded WiFi enabled thermostats. It does not require a jailbreak, nor do I endorse doing so.  
 
 First, you must have SiriProxy installed and working.  [HOW-TOs for Siriprixy] (https://github.com/plamoni/SiriProxy/wiki/Installation-How-Tos) 
 
