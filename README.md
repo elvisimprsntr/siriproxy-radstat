@@ -8,17 +8,19 @@ SiriProxy-Thermostat is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plu
 
 First, you must have SiriProxy installed and working.  [HOW-TOs for Siriprixy] (https://github.com/plamoni/SiriProxy/wiki/Installation-How-Tos) 
 
-Second, you must have at least one Radio Thermostat configured with a static IP address on your network and updated with the latest firmware.    
+Second, you must have at least one Radio Thermostat configured with a static IP address on your network and updated with the latest firmware.      
 
 
 Thermostats
 -----------  
 
+Before installing a Radio Thermoststat you will need to ensure compatibility with your HVAC system, or have one professionally installed.  
+
+These thermostats require either a C-Wire conection from your HVAC or an external 24VAC power supply to power the WiFi module.  
+
 The [Advance Technical Information] (http://www.radiothermostat.com/latestnews.html#advanced) page provides access to Wi-Fi USNAP Module API document for thermostat models CT80, CT30, and 3M50.     
 
 Radio Thermosts models CT22 and CT20 also have WiFi capability, but it is not known if those use the same API.  
-
-These thermostats require either a C-Wire conection from your HVAC or an external 24VAC power supply to power the WiFi module.  
 
 
 
