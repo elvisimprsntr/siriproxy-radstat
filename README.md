@@ -20,4 +20,8 @@ The [Advance Technical Information] (http://www.radiothermostat.com/latestnews.h
 
 Radio Thermosts models CT22 and CT20 also have WiFi capability, but it is not known if those use the same API.  
 
+These thermostats require either a C-Wire conection from your HVAC or an external 24VAC power supply to power the WiFi module.  
+
+
+
 
