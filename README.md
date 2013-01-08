@@ -22,7 +22,7 @@ The [Advanced Technical Information] (http://www.radiothermostat.com/latestnews.
 
 There are other brand names which are basically re-branded Radio Thermostat models which offer paid cloud access, but I suspect it might be possible to simply update the cloud services URL to use the free Radio Thermostat cloud URL. Since I have not had the opportunity to test this, I cannot guarantee it will work or the re-branded thermostats use the same API.    
 
-- Access the thermostats build in interface `http://###.###.###.###`  
+- Access the thermostats build in interface: `http://###.###.###.###`  
 - Click on the Advanced page.  
 - Updated the cloud services URL to: `http://ws.radiothermostat.com/services.svc/StatIn`   
 
