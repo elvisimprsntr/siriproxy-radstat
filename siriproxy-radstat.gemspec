@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "siriproxy-radstat"
   s.version     = "0.0.1" 
-  s.authors     = ["elvisimprsntr"]
+  s.authors     = ["plamoni", "elvisimprsntr"]
   s.email       = [""]
   s.homepage    = "https://github.com/elvisimprsntr/siriproxy-radstat"
   s.summary     = %q{SiriProxy plugin for Radio Thermostat thermostats}
@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
   s.add_runtime_dependency "json"
   s.add_runtime_dependency "httparty"
 end
