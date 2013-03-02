@@ -34,10 +34,7 @@ Usage
 To Do List
 ----------
 
-Let me know if you want to collaborate.   
-
-- Update plugin to support v1.3 API and more features.
-- Add support for multiple thermostats.  
+If you want to collaborate, review the issues list for things to implement. Fork, modify, test, and submit a pull request.
 
 
 Licensing
