@@ -25,8 +25,40 @@ There are a number of re-branded Radio Thermostat models which offer paid cloud 
 - Updated the cloud services URL to: `http://ws.radiothermostat.com/services.svc/StatIn`   
 
 
-Installation
-------------
+Installation (New for SiriProxy 0.5.0+)
+---------------------------------------
+
+
+- Create a plugins directory  
+
+`mkdir ~/plugins`  
+
+`cd ~/plugins/` 
+
+- Get the latest repo   
+
+`git clone git://github.com/elvisimprsntr/siriproxy-radstat`
+
+- Add the example configuration to the master config.yml  
+
+`cat siriproxy-radstat/config-info.yml >> ~/.siriproxy/config.yml`
+
+- Edit the config.yml as required.     **Note: Make sure to line up the column spacing.**
+
+`vim ~/.siriproxy/config.yml`
+
+- Edit the plugin as you wish.  **Note: Repeat all the following steps if you make additional changes.**    
+
+`vim siriproxy-radstat\lib\siriproxy-radstat.rb`
+
+- Bundle  
+
+`siriproxy bundle`
+
+- Run (Ref: https://github.com/plamoni/SiriProxy#set-up-instructions)  
+
+`[rvmsudo] siriproxy server [-d ###.###.###.###] [-u username]`
+
 
 Usage
 -----
